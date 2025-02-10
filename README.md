@@ -55,12 +55,12 @@ Note: For the application can be tested with a user registration, the user is cr
 ## ScreenShots
 
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="Screenshots/bookings-page.jpg" width="400" />
-    <img src="Screenshots/select-room.jpg" width="400" />
+  <div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
+    <img src="Screenshots/bookings-page.jpg" width="400" height="300" style="object-fit: cover;" />
+    <img src="Screenshots/select-room.jpg" width="400" height="300" style="object-fit: cover;" />
   </div>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="Screenshots/edit-room.jpg" width="400" />
-    <img src="Screenshots/check-out.jpg" width="400" />
+  <div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
+    <img src="Screenshots/edit-room.jpg" width="400" height="300" style="object-fit: cover;" />
+    <img src="Screenshots/check-out.jpg" width="400" height="300" style="object-fit: cover;" />
   </div>
 </p>
